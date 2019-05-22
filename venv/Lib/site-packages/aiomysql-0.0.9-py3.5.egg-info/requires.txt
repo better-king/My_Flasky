@@ -1,0 +1,4 @@
+PyMySQL>=0.7.5
+
+[sa]
+sqlalchemy>=0.9
