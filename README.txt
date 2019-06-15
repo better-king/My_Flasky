@@ -1,0 +1,4 @@
+一、部分文件夹内容说明
+1.requirements文件夹
+1）requirements.txt文件列出了运行本应用所需的安装的所有包
+2）dev.txt文件列出了本应用测试时需额外安装的包
